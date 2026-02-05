@@ -75,7 +75,6 @@ Compile Java files
 
 javac main.java
 
-
 Run the application
 
 java main.java
