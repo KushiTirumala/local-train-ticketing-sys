@@ -73,11 +73,11 @@ Digital & paperless travel experience
 
 Compile Java files
 
-javac Main.java
+javac main.java
 
 
 Run the application
 
-
+java main.java
 
 
